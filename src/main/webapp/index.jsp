@@ -111,7 +111,7 @@
 
   <header>
     <h1>🚀 Sanket Devops Demo</h1>
-    <p>Upgrade your career with our industry-ready training programs</p>
+    <p>This is the devops demo for practicing the jenkins</p>
   </header>
 
   <div class="container">
